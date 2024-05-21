@@ -24,7 +24,7 @@
   - conditions 👂 heard
   - loops👂 heard
   - assignment 📢 talked
-  - regular expression
+  - regular expression  🎓 known
   - interface👂 heard
   - contract 📢 talked
   - module 📢 talked
